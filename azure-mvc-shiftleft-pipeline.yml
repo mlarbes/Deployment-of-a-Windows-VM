@@ -1,6 +1,7 @@
 variables:
   - group: 'MVISION_GROUP'
 
+
 trigger:
 - master
 
